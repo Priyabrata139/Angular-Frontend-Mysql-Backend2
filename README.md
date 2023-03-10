@@ -13,33 +13,51 @@ We hope you find our CRUD app easy to use and helpful for managing your data. If
 Node.js 
 
 Express js
+
 NPM 
+
 Angular CLI
+
 MySQL
+
 
 # Installation:
 Clone this repository: git clone https://github.com/your_username/your_repository.git
+
 Navigate to the project directory: cd your_repository
+
 Navigate to the frontend directory : cd frontend
+
 Install frintend dependencies : npm install
+
 Navigate to the backend directory : cd backend
+
 Install the backend dependencies: npm install
+
 
 # Configuration :
 Create a MySQL database for this project.
+
 In the server/config/db.config.js file, update the HOST, USER, PASSWORD, and DB fields to match your MySQL database configuration.
+
 
 # Usage :
 Start the backend server: nodemon index.js
+
 Start the frontend development server: ng serve
+
 Open your web browser and navigate to http://localhost:4200
 
 
 # Features :
 This CRUD application allows you to perform the following operations:
 
+
 Create a new record
+
 Read existing records
+
 Update an existing record
+
 Delete an existing record
 
